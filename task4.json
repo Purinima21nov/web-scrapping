@@ -1,0 +1,16 @@
+{
+    "movie_name": "Millennium Actress",
+    "rating": "PG",
+    "genre": [
+        "Drama",
+        "Fantasy",
+        "Anime"
+    ],
+    "language": [
+        "Japanese"
+    ],
+    "Director": [
+        "SatoshiKon"
+    ],
+    "Runtime": 87
+}
